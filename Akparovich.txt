@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-AKPAROVichxam
-=======
-AKPAR
->>>>>>> april
+
+AKPAROVICH
